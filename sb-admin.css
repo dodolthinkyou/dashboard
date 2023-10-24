@@ -1,0 +1,7 @@
+.chart-container {
+    width: 100%; /* ขยายกว้างเต็มความกว้างของ card */
+    height: 100%; /* ขยายสูงเต็มความสูงของ card */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
